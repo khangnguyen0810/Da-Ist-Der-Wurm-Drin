@@ -7,5 +7,8 @@ This is an implementation from the real board game called "Da Ist Der Wurm Drin"
 git clone https://github.com/khangnguyen0810/Da-Ist-Der-Wurm-Drin.git
 ```
 
+## Authors and acknowledgment
+**khangnguyen0810** and **EXUSI4I**
+
 ## Usage:
 Import the repository to Java IDE such as Eclipse, IntelliJ IDEA, etc. to run the game.
